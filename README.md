@@ -19,9 +19,8 @@ I look forward to the new connections I meet in the community, and to strengthen
 ### 🔭 Focus & Values
 
 **Automation & Analysis** ⚙️
-<br>
 I love solving automation tasks. My goal is to optimize workflows by integrating backend network programming with user-friendly Apple environments.
-<br>
+
 **Community & Culture** 🌲
 I follow Indigenous-led data movements and hope to contribute to the growing diversity in the tech industry. I aim to support Indigenous presence in technology, ensuring that as we advance, we align modern tools with cultural preservation.
 
