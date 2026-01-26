@@ -16,6 +16,8 @@ I look forward to the new connections I meet in the community, and to strengthen
   </a>
 </p>
 
+---
+
 ### 🔭 Focus & Values
 
 **Automation & Business Solutions** ⚙️
