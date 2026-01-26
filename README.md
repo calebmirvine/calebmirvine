@@ -1,6 +1,6 @@
 # ÍY SȻÁĆEL (Good Day/Hello) 👋🏽
 
-My name is **Caleb M. Irvine** (He/Him). I am a **STÁUTW (Tsawout) First Nation** student in my second year—and soon to be final summer term—of the Information and Computer Systems Technologist Diploma program at Camosun College.
+My name is **Caleb M. Irvine** (He/Him). I am a **STÁUTW (Tsawout) First Nation** student in my second year, and soon to be final summer term—of the Information and Computer Systems Technologist Diploma program at Camosun College.
 
 I have work experience in Apple hardware repairs, Apple Sales, and currently serve in a **Junior System Analyst** role, where I further develop my skills in Apple-based workflow solutions.
 
