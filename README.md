@@ -6,9 +6,13 @@ I have work experience in Apple hardware repairs, Apple Sales, and currently ser
 
 I look forward to the new connections I meet in the community, and to strengthening the connections I continue to have.
 
+<br>
+
 ---
 
-### 🛠️ Favorite Technologies & Tools
+### Favorite Technologies & Tools
+
+<br>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,21 +20,29 @@ I look forward to the new connections I meet in the community, and to strengthen
   </a>
 </p>
 
-### 🔭 Focus & Values
+<br>
+
+### Focus & Values
 
 **Automation & Business Solutions** ⚙️
 <br>
 I specialize in solving business challenges through efficient automation. My focus is on analyzing operations and building robust workflows that solve real-world business needs, particularly within the Apple ecosystem.
 
+<br>
+
 **Community & Culture** 🌲
 <br>
 I follow Indigenous-led data movements and hope to contribute to the growing diversity in the tech industry. I aim to support Indigenous presence in technology, ensuring that as we advance, we align modern tools with cultural preservation.
 
+<br>
+
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebmirvine)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebmirvine)
 
 <br>
 
