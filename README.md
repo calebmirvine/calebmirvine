@@ -22,20 +22,6 @@ I look forward to the new connections I meet in the community, and to strengthen
 
 <br>
 
-### Focus & Values
-
-**Automation & Business Solutions** ⚙️
-<br>
-I specialize in solving business challenges through efficient automation. My focus is on analyzing operations and building robust workflows that solve real-world business needs, particularly within the Apple ecosystem.
-
-<br>
-
-**Community & Culture** 🌲
-<br>
-I follow Indigenous-led data movements and hope to contribute to the growing diversity in the tech industry. I aim to support Indigenous presence in technology, ensuring that as we advance, we align modern tools with cultural preservation.
-
-<br>
-
 ---
 
 ### Connect with Me
