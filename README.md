@@ -4,6 +4,8 @@ My name is **Caleb M. Irvine** (He/Him). I am a **STÁUTW (Tsawout) First Nation
 
 I have work experience in Apple hardware repairs, Apple Sales, and currently serve in a **Junior System Analyst** role, where I further develop my skills in Apple-based workflow solutions.
 
+I follow Indigenous-led data movements and hope to contribute to the growing diversity in the tech industry. I aim to support Indigenous presence in technology, ensuring that as we advance, we align modern tools with cultural preservation.
+
 I look forward to the new connections I meet in the community, and to strengthening the connections I continue to have.
 
 <br>
