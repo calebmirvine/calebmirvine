@@ -12,13 +12,13 @@ I look forward to the new connections I meet in the community, and to strengthen
 
 ---
 
-### Favorite Technologies & Tools
+### Technologies & Tools
 
 <br>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,swift,python,nodejs,react,django,bash,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=apple,swift,django,bash,aws,azure" />
   </a>
 </p>
 
